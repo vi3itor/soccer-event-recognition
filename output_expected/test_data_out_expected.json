@@ -1,0 +1,86 @@
+{
+  "sequence_1": {
+    "1": {
+      "event": "pass",
+      "player": 14,
+      "target": 11
+    },
+    "92": {
+      "event": "failed_pass",
+      "player": 11,
+      "target": 13
+    }
+  },
+  "sequence_2": {
+    "31": {
+      "event": "pass",
+      "player": 13,
+      "target": 21
+    },
+    "74": {
+      "event": "pass",
+      "player": 21,
+      "target": 13
+    },
+    "97": {
+      "event": "pass",
+      "player": 13,
+      "target": 15
+    },
+    "116": {
+      "event": "pass",
+      "player": 15,
+      "target": 12
+    },
+    "131": {
+      "event": "pass",
+      "player": 12,
+      "target": 14
+    },
+    "157": {
+      "event": "pass",
+      "player": 14,
+      "target": 15
+    },
+    "190": {
+      "event": "pass",
+      "player": 15,
+      "target": 12
+    },
+    "266": {
+      "event": "pass",
+      "player": 12,
+      "target": 18
+    },
+    "290": {
+      "event": "pass",
+      "player": 18,
+      "target": 20
+    },
+    "305": {
+      "event": "shot",
+      "player": 20
+    }
+  },
+  "sequence_3": {
+    "0": {
+      "event": "pass",
+      "player": 14,
+      "target": 12
+    },
+    "21": {
+      "event": "pass",
+      "player": 12,
+      "target": 14
+    },
+    "28": {
+      "event": "pass",
+      "player": 14,
+      "target": 19
+    },
+    "70": {
+      "event": "shot",
+      "player": 19
+    }
+  }
+}
